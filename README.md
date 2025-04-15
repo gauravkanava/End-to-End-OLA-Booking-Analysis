@@ -37,6 +37,14 @@ Explore and analyze OLA ride booking trends using SQL and create a dynamic dashb
 
 ---
 
+## 📊 Power BI Dashboard
+
+You can view the interactive Power BI Dashboard by clicking the link below:
+
+[View Power BI Dashboard]([https://app.powerbi.com/view?r=your_embed_link](https://app.powerbi.com/reportEmbed?reportId=0521fbc4-5c79-4e71-a577-a0a89440b1c8&autoAuth=true&ctid=ea2a785d-c243-4cb4-a6ed-fbd970e0a31b))
+
+---
+
 ## ✅ How to Use
 1. Clone this repository.
 2. Open `Bookings.xlsx` in Excel to preview the data.
